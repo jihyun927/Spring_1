@@ -15,7 +15,7 @@
 	<img id="img1"  alt="" src="./resources/images/Jellyfish.jpg">
 	
 	<a href="./notice/noticeList?name=notice">Go Notice</a>
-	<a href="./qna/qnaList">Go QnA</a> --%>
+	<a href="./qna/qnaList">Go QnAk</a> --%>
 
 </body>
 </html>
